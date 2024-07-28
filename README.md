@@ -6,4 +6,4 @@
 
 # 목차
 ## Part 1 포인터에 대한 궁금함?
-- [Chapter 1. 변수와 포인터](https://github.com/siotsiot/C-Study-2/tree/main/Chapter 01 변수와 포인터)
+- [Chapter 1. 변수와 포인터](https://github.com/siotsiot/C-Study-2/tree/main/Chapter_01_변수와_포인터)
